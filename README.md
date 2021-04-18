@@ -9,6 +9,7 @@ npm install
 After all dependencies have been installed you can run the app locally in development mode or you can built out the static assets to deploy them on any webserver.
 
 Run the app in development mode
+
 After installing all dependencies you can run the app on the webpack dev server by running the following command:
 
 npm start
@@ -16,6 +17,7 @@ npm start
 Open http://localhost:3000 to view it in the browser.
 
 Build a deployment-ready production build
+
 Run this command to build out all of the static assets required for a production deployment:
 
 npm run build

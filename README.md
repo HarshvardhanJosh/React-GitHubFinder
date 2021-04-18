@@ -10,14 +10,12 @@ Installation:
 
 `npm install`
 
-To Run Test Suite:
-
-`npm test`
-
-To Start Server:
+## Run the app in development mode
 
 `npm start`
 
-To Visit App:
+Open http://localhost:3000 to view it in the browser.
 
-`localhost:3000/ideas`
+## Build a deployment-ready production build
+
+`npm run build`
